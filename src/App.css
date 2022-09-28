@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap");
+/* import bg from "./bg.png"; */
+body {
+  /* background: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000")
+    repeat 0 0; */
+  z-index: -1000;
+  width: 100wv;
+  overflow-x: hidden;
+}
+.head {
+  font-family: "Abyssinica SIL", serif;
+}
+
+#emergency:hover {
+  background-color: yellow;
+}
